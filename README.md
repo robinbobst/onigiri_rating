@@ -60,7 +60,7 @@
 
 ---
 
-### Zenbu vegan seitan onigiri
+### Zenbu vegan Seitan Onigiri
 
 
 |           |              |
@@ -71,4 +71,7 @@
 | Füllung   | 4/10        |
 | Preis     | 5/10 (4.20CHF)|
 | **Total** | **45/70**    |
+
+---
+
 
