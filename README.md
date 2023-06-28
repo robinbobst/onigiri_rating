@@ -25,7 +25,7 @@
 
 | Onigiri | Rating | Tags |
 | ------- | ------ | ---- |
-|         |        |      |
+| Zumba Tuna Onigiri        | **49/70**       | Switzerland, Coop     |
 |         |        |      |
 
 ---
@@ -74,4 +74,16 @@
 
 ---
 
+### Zenbu Tuna Onigiri
 
+
+|           |              |
+| --------- | ------------ |
+| Infos     | Schweiz, Coop  |
+| Reis      | 7/10        |
+| Alge      | 9/10        |
+| Füllung   | 6/10        |
+| Preis     | 5/10 (4.50CHF)|
+| **Total** | **49/70**    |
+
+---
