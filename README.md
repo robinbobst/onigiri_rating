@@ -87,3 +87,16 @@
 | **Total** | **49/70**    |
 
 ---
+
+### Migros Tuna Onigiri
+
+|           |              |
+| --------- | ------------ |
+| Infos     | Schweiz, Migros  |
+| Reis      | 7/10        |
+| Alge      | 7/10        |
+| Füllung   | 5/10        |
+| Preis     | 5/10 (4.20CHF)|
+| **Total** | **43/70**    |
+
+---
